@@ -52,11 +52,3 @@
 
 <p align="left"></p>
 
-###
-
-<img src="https://raw.githubusercontent.com/Dayfinggg/Dayfinggg/blob/output/snake.svg" alt="Snake animation" />
-
-
-<div align="left">
-</div>
-
