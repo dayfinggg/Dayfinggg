@@ -56,23 +56,6 @@
 
 <img src="https://raw.githubusercontent.com/Dayfinggg/Dayfinggg/blob/output/snake.svg" alt="Snake animation" />
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Dayfinggg/count.svg?"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Dayfinggg/count.svg?"  />
-</div>
-
-###
 
 <div align="left">
 </div>
