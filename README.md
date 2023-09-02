@@ -6,4 +6,4 @@ ___
 🌐 : [**dayfing.dev**](https://dayfing.dev) \
 🐦 : [**@dayfing**](https://curtly.cc/tw) \
 📧 : [**me@dayfing.cc**](mailto://me@dayfing.cc) \
-Discord : [**dayfing.dev/discord**](https:/curtly.cc/ds)
+Discord : [**dayfing.dev/discord**](https://curtly.cc/ds)
